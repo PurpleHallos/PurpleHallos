@@ -1,12 +1,5 @@
 <div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F4C9DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Yahallo+~+llo~;Welcome+to+my+profile+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
-<img src="https://lanyard.kyrie25.me/api/1154452833282818078?borderRadius=20px&idleMessage=Probably%20configuring%20something%20%E2%9A%99%EF%B8%8F" width="400" height="auto">
-
-<br>
-
 <pre>
  <h2><strong><em>About Me</em></strong></h2>
 Name: Hallos 👋
@@ -15,6 +8,16 @@ Gender: He/Him ♂️
 Hobbies: 💻 Tech Stuff, 🌐 Web Development, 🐧 Ricing Linux
 Working @: Purple Yard 🏢
 </pre>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F4C9DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Yahallo+~+llo~;Welcome+to+my+profile+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+<img src="https://lanyard.kyrie25.me/api/1154452833282818078?borderRadius=20px&idleMessage=Probably%20configuring%20something%20%E2%9A%99%EF%B8%8F" width="400" height="auto">
+
+<br>
+
+
 <br><br>
 
 
