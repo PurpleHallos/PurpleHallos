@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/username.png" width="20%" alt="Username"/>
   </a>
   <br>
-  <em>Click to get my links</em>
+  <em>Click to see my links</em>
 </p>
 
 
