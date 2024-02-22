@@ -6,7 +6,7 @@
 <img src="https://lanyard.kyrie25.me/api/1154452833282818078?borderRadius=20px&idleMessage=Probably%20configuring%20something%20%E2%9A%99%EF%B8%8F" width="400" height="auto">
 
 <br>
-<br>
+
 <pre>
  <h2><strong><em>About Me</em></strong></h2>
 Name: Hallos 👋
