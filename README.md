@@ -5,9 +5,7 @@
 
 **Name:** Hallos 👋  
 **Loves:** 📺 Anime, 🎮 Games, 📚 Books, 🏃‍♂️ Sport  
-**Gender:** He/Him ♂️  
 **Hobbies:** 💻 Tech Stuff, 🌐 Web Development, 🐧 Ricing Linux  
-**Working @:** Purple Yard 🏢
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/parade.webp" width="300px" alt="Parade"/>
