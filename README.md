@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <a href="https://links.purpleyard.xyz/">
+  <a href="https://links.purpleyard.xyz/" target="_blank">
     <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/username.png" width="20%" alt="Username"/>
   </a>
   <br>
