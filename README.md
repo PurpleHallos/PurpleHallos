@@ -37,8 +37,8 @@
   <em>Click to see my links</em>
 </p>
 
-<p align="center">
-<a href="https://open.spotify.com/user/31hoyjkhabjd6grvtrboxeq46bri">
-                    <img src="https://playingspotify.vercel.app/api/spotify" alt="Spotify" style="width: 100%; height: auto;">
-                </a>
-                </p>
+# <p align="center">
+# <a href="https://open.spotify.com/user/31hoyjkhabjd6grvtrboxeq46bri">
+#                    <img src="https://playingspotify.vercel.app/api/spotify" alt="Spotify" style="width: 100%; height: auto;">
+#                </a>
+#                </p>
