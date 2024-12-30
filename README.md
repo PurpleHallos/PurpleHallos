@@ -39,3 +39,6 @@
 
 
 </div>
+
+[![Spotify](https://playingspotify-bejpf7yv4-hallos-projects-5b250f3e.vercel.app)](https://open.spotify.com/user/USER_NAME)
+
