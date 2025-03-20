@@ -24,3 +24,12 @@
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/virtualbox-%23183A61?style=flat&logo=virtualbox&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+
+
+ <p align="center">
+   <a href="https://links.purpleyard.xyz/" target="_blank">
+     <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/username.png" width="20%" alt="Username"/>
+   </a>
+   <br>
+   <em>Click to see my links</em>
+ </p>
